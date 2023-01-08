@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(235, 241, 246);
+}
+
+h1{
+    margin-top: 30px;
+    margin-left: 55px;
+}
+p{
+    margin-top: 30px;
+    margin-left: 55px;
+}
+
+
+.success{
+    background-color: rgb(125, 209, 125);
+}
+
+.alert{
+    margin-left: 55px;
+    margin-top: 20px;
+    padding: 20px 70px;
+    width: 530px;
+    height: 18px;
+    font-size: 25px;
+    font-weight: 200;
+    font-family: 'Roboto', sans-serif;
+}
+
+.danger{
+    background-color: rgb(236, 144, 116);
+}
+
+.warning{
+    background-color: rgba(240, 232, 128, 0.61);
+}
+
+.information{
+    background-color: rgba(89, 169, 212, 0.925);
+}
+
+
+
+
+
