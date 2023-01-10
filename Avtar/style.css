@@ -1,0 +1,39 @@
+*{
+    margin:0rem;
+    padding: 0rem;
+}
+.heading{
+    margin:2rem;
+    font-family: 'Roboto', sans-serif;
+}
+.para{
+    margin: 2rem;
+    font-size: 22px;
+}
+.first-aavtar{
+    height: 52px;
+    width: 53px;
+    border-radius: 29px;
+    margin-left: 4rem;
+}
+.second-aavtar{
+    height: 73px;
+    width: 73px;
+    border-radius: 39px;
+    margin-left: 4rem;
+}
+.third-aavtar{
+    height: 93px;
+    width: 93px;
+    border-radius: 49px;
+    margin-left: 4rem;
+}
+.fourth-aavtar{
+    height: 113px;
+    width: 113px;
+    border-radius: 69px;
+    margin-left: 4rem;
+}
+.container{
+    margin: 5rem;
+}
