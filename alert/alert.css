@@ -18,14 +18,14 @@ p{
 
 
 .success{
-    background-color: rgb(125, 209, 125);
+    background-color: #bbf7d0
 }
 
 .alert{
     margin-left: 55px;
     margin-top: 20px;
     padding: 20px 70px;
-    width: 530px;
+    width: 560px;
     height: 18px;
     font-size: 25px;
     font-weight: 200;
@@ -33,15 +33,31 @@ p{
 }
 
 .danger{
-    background-color: rgb(236, 144, 116);
+    background-color:#fca5a5
 }
 
 .warning{
-    background-color: rgba(240, 232, 128, 0.61);
+    background-color:#fef08a
 }
 
 .information{
-    background-color: rgba(89, 169, 212, 0.925);
+    background-color: #93c5fd
+}
+
+.fa-solid.fa-circle-check{
+    padding-right: 20px;
+}
+
+.fa-solid.fa-circle-xmark{
+    padding-right: 20px;
+}
+
+.fa-solid.fa-circle-exclamation{
+    padding-right: 20px;
+}
+
+.fa-solid.fa-circle-info{
+    padding-right: 20px;
 }
 
 
