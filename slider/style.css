@@ -1,0 +1,24 @@
+*{
+    margin: 0rem;
+    padding: 0rem;
+}
+h1{
+    margin: 2rem;
+}
+p{
+    margin: 2rem;
+}
+.slider-range{
+    min-width: 350px;
+    width: 50%;
+    margin: auto;
+}
+.range{
+    flex: 1;
+    display: flex;
+    justify-content: space-around;
+}
+.input-progress{
+    width: 80%;
+    margin: 0.5rem 3rem;
+}
