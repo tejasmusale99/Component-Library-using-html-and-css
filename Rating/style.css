@@ -1,0 +1,15 @@
+*{
+    margin: 0rem;
+    padding: 0rem;
+}
+h1{
+    margin:2rem;
+}
+p{
+    margin: 2rem;
+    font-size: 18px;
+}
+.star-ratings{
+    max-width: 400px;
+    margin: auto;
+}
