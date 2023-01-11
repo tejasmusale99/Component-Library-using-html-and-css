@@ -1,0 +1,71 @@
+*{
+    margin: 0rem;
+    padding:0rem;
+}
+.heading{
+    margin: 2rem;
+    font-weight: bolder;
+}
+#para1{
+    margin:2rem;
+    font-size: 20px;
+}
+.heading-container{
+    max-width: 80vw;
+    height: 40vh;
+    margin: auto;
+    border: 2px solid black;
+    margin-left: 2rem;
+}
+.align-center{
+    text-align: center;
+    padding-top: 3rem;
+}
+.align-right{
+    text-align: right;
+    padding-top: 3rem;
+    padding-right: 2rem;
+}
+.align-left{
+    text-align: left;
+    padding-top: 3rem;
+    padding-left: 2rem;
+}
+
+.para-large{
+    font-size: 2.1rem;
+    margin: 2rem;
+}
+.para-regular{
+    font-size: 1.5rem;
+    margin: 2rem;
+}
+.para-medium{
+    font-size: 1.2rem;
+    margin: 2rem;
+}
+.para-small{
+    font-size: 1rem;
+    margin: 2rem;
+}
+.form-text{
+    border: 2px dotted rgba(202, 193, 193, 0.849);
+    margin: 2rem;
+    padding: 1rem;
+}
+.high-text{
+    font-weight: bolder;
+    font-size: 22px;
+    background-color: chartreuse;
+    
+}
+.grey-text{
+    color: grey;
+    font-size: 18px;
+}
+.form-text1{
+    margin: 2rem;
+    padding: 1rem;
+    border: 2px dotted rgba(202, 193, 193, 0.849);
+    text-align: center; 
+}
