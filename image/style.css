@@ -1,0 +1,33 @@
+*{
+    margin: 0rem;
+    padding: 0rem;
+}
+.heading1{
+   margin: 2rem;
+}
+.first-para{
+    margin:2rem
+}
+.second-heading{
+    margin: 2rem;
+}
+.first-iamge{
+    width: 50%;
+    margin: auto;
+}
+.bird-image{
+    width: 21rem;
+    height:24rem;
+}
+.heading2{
+    margin: 2rem;
+}
+.second-image{
+    width: 50%;
+    margin:auto
+}
+.deer-image{
+    width: 21rem;
+    height:20rem;
+    border-radius: 12rem;
+}
