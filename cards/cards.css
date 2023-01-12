@@ -2,53 +2,90 @@
     margin: 0;
     padding: 0;
 }
-body{
-    height: 90vh;
-    width: 90vw;
+
+.main-heading{
+    margin-top: 2rem;
+    margin-left: 10rem;
+    
 }
-.heading{
-    margin:22px 22px;
-}
-.kurta{
-    margin: 0px 80px;  
-}
-img{
-    width: 450px;
+.heading1{
+    margin-top: 2rem;
+    margin-left: 10rem;
+    margin-bottom: 2rem;
 }
 
+.first-card{
+   max-width: 60%;
+   margin: auto;
+}
+.box-shadow{
+    box-shadow: 0 0 3px 3px grey;
+    max-width: 450px;
+}
+.jeans{
+    width: 450px;  
+}
 .brand{
-    margin: 9px 78px;
+    padding: 0.3rem 0.5rem;
 }
-.brand-name{
-    margin: 0px 78px;
+.jeans-type{
+    color: gray;
+    padding: 0.3rem 0.5rem;
 }
-
-div.brand-price{
-    display: flex;
-    justify-content: space-evenly;
-    padding: 7px 687px 6px 0px;
-    margin: 2px 0px 0px 8px;
-
-}
-.original{
+#off{
     text-decoration: line-through;
+    font-size: 16px;
+    font-weight: bolder;
+    padding: 0.3rem 0.5rem;
 }
-.offer{
-    text-decoration: none;
+#price{
+    font-size: 16px;
+    font-weight: bolder;
+    padding: 0.3rem 0.5rem;
 }
 .slogan{
-    color: rgb(151, 51, 51);
-    margin: 20px 75px;
+    color: brown;
+    padding: 0.3rem 0.5rem;
 }
-button{
+.btn-vertical{
     border-radius: 6px;
     background-color: #3b04fb;
     color: #fffcfc;
-    width: 455px;
+    width: 409px;
     padding: 7px;
-    margin: 6px 0px;
+    margin: 6px 15px;
+    cursor: pointer;
 }
-div.btn{
-    margin-left: 70px;
+.btn-vertical:hover{
+    background-color: rgb(120, 120, 146);
+    color:black ;
 }
-    
+.btn-badge{
+    border-radius: 6px;
+    background-color: #847d9e;
+    color: #fffcfc;
+    width: 200px;
+    padding: 7px;
+    margin: 6px 120px;
+    cursor: pointer;
+}
+.btn-badge:hover{
+    background-color: rgb(63, 63, 84);
+    color:rgb(255, 245, 245) ;
+}
+.icon-image{
+    margin-top: 4rem; 
+}
+div.badge-image{
+    position: relative;
+    margin-top: 10rem;
+}
+.sold-badge {
+    position: absolute;
+    bottom: 683px;
+    left: 348px;
+    background-color: red;
+    padding: 10px;
+    color: white;
+    font-weight: bold;
+}
