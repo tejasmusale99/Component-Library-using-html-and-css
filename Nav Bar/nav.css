@@ -1,0 +1,43 @@
+*{
+    margin: 0rem;
+    padding: 0rem;
+    box-sizing: border-box;
+}
+
+#first{
+    margin: 2rem;
+}
+
+.para{
+    margin: 1.5rem 2rem;
+}
+
+#second {
+    margin: 1.5rem 2rem;
+}
+
+.nav-container{
+    display: flex;
+    background-color: #0369a1;
+    color: #fff;
+    font-size: 30px;
+    font-weight: 600;
+    justify-content: space-between;
+    align-content: center;
+    margin: 1.5rem 2rem;
+}
+
+.nav-profile {
+    height: 2.5rem;
+    width: 2.5rem;
+    border-radius: 50%;
+    cursor: pointer; 
+}
+
+.fa-solid{
+    padding: 20px;
+    cursor: pointer;
+}
+.fa-solid:hover{
+    color: rgb(160, 160, 160);
+}
